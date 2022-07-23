@@ -1,5 +1,5 @@
-const seun = () => {
+const seunstein = () => {
     return seun ;
 }
  
-export default seun;
+export default seunstein;
